@@ -8,7 +8,7 @@
 This project is about Analysing YouTube Dataset (on Trending YouTube Video) by AWS services like Athena, S3, Glue and Lambda. Technical languages used are SQL, Python3. Aim is to securely manage, streamline, and perform analysis on the structured and semi-structured YouTube videos data based on the video categories and the trending metrics. Cloud-based safe Data Lake solutions aid in the development of rich analytics on data while classifying it into several storage phases, such as raw, cleansed, and analytical.
 
 ### 💾 Dataset for this project
-Pulled data from Kaggle throught Kaggle API and the of the data set is [Trending YouTube Video Statistics](kaggle.com/datasnaek/youtube-new![image](https://github.com/Mohith-Narravula/ETL-pipeline-on-YouTube-data-using-AWS-services/assets/117317024/c54e9532-75ff-40dc-8887-2316885baded)
+Pulled data from Kaggle throught Kaggle API throught AWS CLI and the name of the data set is [Trending YouTube Video Statistics](kaggle.com/datasnaek/youtube-new![image](https://github.com/Mohith-Narravula/ETL-pipeline-on-YouTube-data-using-AWS-services/assets/117317024/c54e9532-75ff-40dc-8887-2316885baded)
 ) 
 
 ### 👩‍💻 What I learnt from this Project:
