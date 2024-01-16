@@ -19,3 +19,6 @@ This project is about Analysing YouTube Dataset (on Trending YouTube Video) by A
 •	End-To-End ETL pipe line can handle real-time (streaming) data.
 •	Learnt naming conventions in AWS for each service in an effective way. 
 •	Learnt to connect AWS from AWS CLI.
+
+🙏 Acknowledgments:
+A big thanks to my mentor for this project, [Carlos Contreras]( https://www.linkedin.com/in/carloscontreras/), for simplifying each concept as simply as possible and to the Project Pro team for providing amazing Big Data projects. 
